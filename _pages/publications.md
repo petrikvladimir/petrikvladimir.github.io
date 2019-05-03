@@ -9,8 +9,8 @@ For the complete list of publications see [Google Scholar](https://scholar.googl
 
 **Single arm robotic garment folding path generation.**
 Vladimír Petrík, Vladimír Smutný, Pavel Krsek, and Václav Hlaváč. Advanced Robotics, 2017.
-[**[[pdf]]**](ftp://cmp.felk.cvut.cz/pub/cmp/articles/petrik/PetrikADR2017.pdf)
-[**[[video]]**](https://www.tandfonline.com/doi/suppl/10.1080/01691864.2017.1367325?scroll=top)
+[**[pdf]**](ftp://cmp.felk.cvut.cz/pub/cmp/articles/petrik/PetrikADR2017.pdf)
+[**[video]**](https://www.tandfonline.com/doi/suppl/10.1080/01691864.2017.1367325?scroll=top)
 
 **Folding clothes autonomously: A complete pipeline.**
 Andreas Doumanoglou, Jan Stria, Georgia Peleka, Ioannis Mariolis, Vladimír Petrík, Andreas Kargakos, Libor Wagner, Václav Hlaváč, Tae-Kyun Kim, and Sotiris Malas- siotis. 
@@ -21,36 +21,36 @@ IEEE Transactions on Robotics, 2016.
 **Automatic Material Properties Estimation for the Physics-Based Robotic Garment Folding.**
 Vladimír Petrík, Jakub Cmíral, Vladimír Smutný, Pavel Krsek, and Václav Hlaváč. 
 In Proc. Int. Conf. on Robotics and Automation (ICRA), Brisbane, Australia, 2018.
-[**[[pdf]]**](http://people.ciirc.cvut.cz/~petrivl3/PetrikICRA2018.pdf)
-[**[[video]]**](https://youtu.be/_zXeFEN54sY)
+[**[pdf]**](http://people.ciirc.cvut.cz/~petrivl3/PetrikICRA2018.pdf)
+[**[video]**](https://youtu.be/_zXeFEN54sY)
 
 **Model-free Approach to Garments Unfolding Based on Detection of Folded Layers.**
 Jan Stria, Vladimír Petrík, and Václav Hlaváč.
 In Proc. Int. Conf. on Intelligent Robots and Systems (IROS), pages 3274–3280, Vancouver, 2017.
-[**[[pdf]]**](http://cmp.felk.cvut.cz/~striajan/stria_iros_2017.pdf)
-[**[[video]]**](https://youtu.be/XJVgJncXMW4)
-[**[[www]]**](http://cmp.felk.cvut.cz/~striajan/iros2017/index.html)
+[**[pdf]**](http://cmp.felk.cvut.cz/~striajan/stria_iros_2017.pdf)
+[**[video]**](https://youtu.be/XJVgJncXMW4)
+[**[www]**](http://cmp.felk.cvut.cz/~striajan/iros2017/index.html)
 
 **Accuracy of Robotic Elastic Object Manipulation as a Function of Material Properties.**
 Vladimír Petrík, Vladimír Smutný, Pavel Krsek, and Václav Hlaváč. 
 In Int. Workshop on Modelling and Simulation for Autonomous Systems (MESAS), pages 384–395, Rome, 2016.
-[**[[pdf]]**](ftp://cmp.felk.cvut.cz/pub/cmp/articles/petrik/PetrikMESAS2016.pdf)
+[**[pdf]**](ftp://cmp.felk.cvut.cz/pub/cmp/articles/petrik/PetrikMESAS2016.pdf)
 
 
 **Physics-Based Model of Rectangular Garment for Robotic Folding.**
 Vladimír Petrík, Vladimír Smutný, Pavel Krsek, and Václav Hlaváč. 
 In Proc. Int. Conf. on Intelligent Robots and Systems (IROS), pages 951–956, Daejeon, 2016. 
-[**[[pdf]]**](ftp://cmp.felk.cvut.cz/pub/cmp/articles/petrik/PetrikIROS2016.pdf)
+[**[pdf]**](ftp://cmp.felk.cvut.cz/pub/cmp/articles/petrik/PetrikIROS2016.pdf)
 
 **Robotic Garment Folding: Precision Improvement and Workspace Enlargement.**
 Vladimír Petrík, Vladimír Smutný, Pavel Krsek, and Václav Hlaváč. 
 In Annu. Conf. Towards Autonomous Robotic Systems (TAROS), pages 204–215, Liverpool, 2015. 
-[**[[pdf]]**](ftp://cmp.felk.cvut.cz/pub/cmp/articles/petrik/PetrikTAROS2015.pdf)
+[**[pdf]**](ftp://cmp.felk.cvut.cz/pub/cmp/articles/petrik/PetrikTAROS2015.pdf)
 
 **Garment perception and its folding using a dual-arm robot.**
 J. Stria, D. Průša, V. Hlaváč, L. Wagner, V. Petrík, P. Krsek, and V. Smutný. 
 In Proc. Int. Conf. on Intelligent Robots and Systems (IROS), pages 61–67, Chicago, Illinois, 2014.
- [**[[pdf]]**](ftp://cmp.felk.cvut.cz/pub/cmp/articles/stria/Stria-Prusa-Hlavac-IROS-2014.pdf)
+ [**[pdf]**](ftp://cmp.felk.cvut.cz/pub/cmp/articles/stria/Stria-Prusa-Hlavac-IROS-2014.pdf)
 
 **Techniques for Modeling Simulation Environments for Modular Robotics.**
 V. Vonásek, M. Kulich, T. Krajník, M. Saska, D. Fišer, V. Petrík, and L. Přeučil. 
