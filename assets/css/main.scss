@@ -9,6 +9,8 @@
 
 html {
   font-size: 12px; // originally 16px
+  text-align: justify;
+
   @include breakpoint($medium) {
     font-size: 14px; // originally 18px
   }
