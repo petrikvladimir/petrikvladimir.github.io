@@ -1,5 +1,5 @@
 ---
-permalink: /education_affiliation/
+permalink: /education_affiliations/
 title: "Education/Affiliations"
 ---
 
