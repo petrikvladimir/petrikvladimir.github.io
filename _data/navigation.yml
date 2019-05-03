@@ -1,3 +1,7 @@
 main:
+  - title: "Projects"
+    url: /projects/
+  - title: "Publications"
+    url: /publications/
   - title: "Education/Affiliations"
     url: /education_affiliations/
