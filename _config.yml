@@ -84,7 +84,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Instagram"
-      icon: "far fa-fw fa-envelope"
+      icon: "far fa-envelope"
       url: "https://instagram.com/"
 
 defaults:
