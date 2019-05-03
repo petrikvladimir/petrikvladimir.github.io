@@ -3,7 +3,9 @@ layout: single
 author_profile: true
 ---
 
-**Recent activities**:
+## Recent activities
 
-* **April, 2019** The paper *Feedback-based Fabric Strip Folding* submitted to IROS2019 is on [ArXiV](https://arxiv.org/abs/1904.01298).
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/ghcp7CdqhjM?list=PL7EJPwNF0uyOtF5ySihyai2at87PbYQ4y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* **April, 2019: Feedback-based Fabric Strip Folding is on arXiv** <br>
+    Our latest paper which is currently under review of IROS2019 is available on [arXiv](https://arxiv.org/abs/1904.01298) and [youtube](https://www.youtube.com/watch?v=ghcp7CdqhjM&list=PL7EJPwNF0uyOtF5ySihyai2at87PbYQ4y).
+* **February, 2019: Static Stability of Robotic Fabric Strip Folding is on arXiv.** <br>
+    Our paper submitted to IEEE/ASME Transaction on Mechatronics is on [arXiv](https://arxiv.org/abs/1902.11021).
