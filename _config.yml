@@ -62,31 +62,29 @@ plugins:
 author:
   name   : "Vladimír Petrík"
   avatar : "/assets/images/w01_small.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Junior Researcher at Czech Institute of Informatics, Robotics, and Cybernetics at Czech Technical University in Prague."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 footer:
   links:
+    - label: vladimir.petrik@cvut.cz
+      icon: "fab fa-fw fa-envelope"
+      url: "mailto:vladimir.petrik@cvut.cz"
     - label: "Twitter"
+#      <i class="far fa-envelope"></i>
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      icon: "far fa-fw fa-envelope"
       url: "https://instagram.com/"
 
 defaults:
