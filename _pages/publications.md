@@ -7,6 +7,15 @@ For the complete list of publications see [Google Scholar](https://scholar.googl
 
 ## Journal Publications
 
+**Statistical Based Control Points Selection for Indoor Illuminance Measurement.**
+Tomáš Drábek, Vladimír Petrík, Jan Holub. IEEE Transactions on Instrumentation and Measurement, 2020.
+[**[IEEE]**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9066919).
+
+**Static Stability of Robotic Fabric Strip Folding.**
+Vladimír Petrík, Vladimír Smutný, Ville Kyrki. IEEE/ASME Transaction on Mechatronics, 2020. 
+[**[IEEE]**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9037109)
+[**[arXiv]**](https://arxiv.org/abs/1902.11021).
+
 **Single arm robotic garment folding path generation.**
 Vladimír Petrík, Vladimír Smutný, Pavel Krsek, and Václav Hlaváč. Advanced Robotics, 2017.
 [**[pdf]**](ftp://cmp.felk.cvut.cz/pub/cmp/articles/petrik/PetrikADR2017.pdf)
@@ -17,6 +26,11 @@ Andreas Doumanoglou, Jan Stria, Georgia Peleka, Ioannis Mariolis, Vladimír Petr
 IEEE Transactions on Robotics, 2016.
 
 ## Conference Publications
+
+**Feedback-based Fabric Strip Folding.**
+Vladimír Petrík, Ville Kyrki. In Proc. Int. Conf. on Intelligent Robots and Systems (IROS) 2019.
+[**[arXiv]**](https://arxiv.org/abs/1904.01298)
+[**[youtube]**](https://www.youtube.com/watch?v=ghcp7CdqhjM&list=PL7EJPwNF0uyOtF5ySihyai2at87PbYQ4y).
 
 **Automatic Material Properties Estimation for the Physics-Based Robotic Garment Folding.**
 Vladimír Petrík, Jakub Cmíral, Vladimír Smutný, Pavel Krsek, and Václav Hlaváč. 
