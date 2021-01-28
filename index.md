@@ -9,6 +9,13 @@ title: "Home"
 
 ## Recent contributions
 
+* **November, 2020: Learning Object Manipulation Skills via Approximate State Estimation from Real Videos.**
+    Vladimír Petrík*, Makarand Tapaswi*, Ivan Laptev, Josef Šivic.
+    Paper was accepted and presented at CoRL conference and is available on 
+    [**[arXiv]**](https://arxiv.org/abs/2011.06813),
+    [**[youtube]**](https://youtu.be/0bhO3KCKVa8), or
+    [**[GitHub]**](https://github.com/makarandtapaswi/Real2Sim_CoRL2020).
+
 * **April, 2020: Statistical Based Control Points Selection for Indoor Illuminance Measurement.**
     Tomáš Drábek, Vladimír Petrík, Jan Holub.
     Paper was accepted for publication in IEEE Transactions on Instrumentation and Measurement, and is available on 

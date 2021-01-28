@@ -27,6 +27,12 @@ IEEE Transactions on Robotics, 2016.
 
 ## Conference Publications
 
+**Learning Object Manipulation Skills via Approximate State Estimation from Real Videos.**
+Vladimír Petrík*, Makarand Tapaswi*, Ivan Laptev, Josef Šivic. Conference on Robot Learning (CoRL) 2020.
+[**[arXiv]**](https://arxiv.org/abs/2011.06813),
+[**[youtube]**](https://youtu.be/0bhO3KCKVa8),
+[**[GitHub]**](https://github.com/makarandtapaswi/Real2Sim_CoRL2020).
+  
 **Feedback-based Fabric Strip Folding.**
 Vladimír Petrík, Ville Kyrki. In Proc. Int. Conf. on Intelligent Robots and Systems (IROS) 2019.
 [**[arXiv]**](https://arxiv.org/abs/1904.01298)
