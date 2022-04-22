@@ -7,7 +7,7 @@ For the complete list of publications see [Google Scholar](https://scholar.googl
 
 ## Journal Publications
 
-**January, 2022: Learning to Manipulate Tools by Aligning Simulation to Video Demonstration.**
+**Learning to Manipulate Tools by Aligning Simulation to Video Demonstration.**
 Kateryna Zorina, Justin Carpentier, Josef Sivic, Vladimír Petrík. IEEE Robotics and Automation Letters, 2022.
 [**[IEEE]**](https://ieeexplore.ieee.org/iel7/7083369/7339444/09612073.pdf),
 [**[arXiv]**](https://arxiv.org/abs/2111.03088),
