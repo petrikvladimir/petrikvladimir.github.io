@@ -7,6 +7,12 @@ For the complete list of publications see [Google Scholar](https://scholar.googl
 
 ## Journal Publications
 
+**January, 2022: Learning to Manipulate Tools by Aligning Simulation to Video Demonstration.**
+Kateryna Zorina, Justin Carpentier, Josef Sivic, Vladimír Petrík. IEEE Robotics and Automation Letters, 2022.
+[**[IEEE]**](https://ieeexplore.ieee.org/iel7/7083369/7339444/09612073.pdf),
+[**[arXiv]**](https://arxiv.org/abs/2111.03088),
+[**[ProjectPage]**](https://data.ciirc.cvut.cz/public/projects/2021LearningToolMotion/).
+
 **Statistical Based Control Points Selection for Indoor Illuminance Measurement.**
 Tomáš Drábek, Vladimír Petrík, Jan Holub. IEEE Transactions on Instrumentation and Measurement, 2020.
 [**[IEEE]**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9066919).
@@ -22,7 +28,7 @@ Vladimír Petrík, Vladimír Smutný, Pavel Krsek, and Václav Hlaváč. Advance
 [**[video]**](https://www.tandfonline.com/doi/suppl/10.1080/01691864.2017.1367325?scroll=top)
 
 **Folding clothes autonomously: A complete pipeline.**
-Andreas Doumanoglou, Jan Stria, Georgia Peleka, Ioannis Mariolis, Vladimír Petrík, Andreas Kargakos, Libor Wagner, Václav Hlaváč, Tae-Kyun Kim, and Sotiris Malas- siotis. 
+Andreas Doumanoglou, Jan Stria, Georgia Peleka, Ioannis Mariolis, Vladimír Petrík, Andreas Kargakos, Libor Wagner, Václav Hlaváč, Tae-Kyun Kim, and Sotiris Malassiotis. 
 IEEE Transactions on Robotics, 2016.
 
 ## Conference Publications
