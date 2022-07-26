@@ -9,6 +9,14 @@ title: "Home"
 
 ## Recent contributions
 
+[//]: # (keep the last 2 years)
+
+* **July, 2022: Collision Detection Accelerated: An Optimization Perspective.**
+    Louis Montaut, Quentin Le Lidec, Vladimir Petrik, Josef Sivic, Justin Carpentier.
+    Paper was presented at RSS conference and is available on 
+    [**[RSS]**](http://www.roboticsproceedings.org/rss18/p039.pdf) or
+    [**[arXiv]**](https://arxiv.org/abs/2205.09663).
+
 * **January, 2022: Learning to Manipulate Tools by Aligning Simulation to Video Demonstration.**
     Kateryna Zorina, Justin Carpentier, Josef Sivic, Vladimír Petrík.
     Paper was published in IEEE Robotics and Automation Letters journal [**[IEEE]**](https://ieeexplore.ieee.org/iel7/7083369/7339444/09612073.pdf) 
@@ -35,8 +43,3 @@ title: "Home"
     [**[IEEE]**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9037109) or
     [**[arXiv]**](https://arxiv.org/abs/1902.11021).
 
-* **November, 2019: Feedback-based Fabric Strip Folding.**
-    Vladimír Petrík, Ville Kyrki.
-    Paper accepted and presented at IROS2019, and is available on 
-    [**[arXiv]**](https://arxiv.org/abs/1904.01298) or 
-    [**[youtube]**](https://www.youtube.com/watch?v=ghcp7CdqhjM&list=PL7EJPwNF0uyOtF5ySihyai2at87PbYQ4y).

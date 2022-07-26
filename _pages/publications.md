@@ -33,6 +33,11 @@ IEEE Transactions on Robotics, 2016.
 
 ## Conference Publications
 
+**Collision Detection Accelerated: An Optimization Perspective.**
+Louis Montaut, Quentin Le Lidec, Vladimir Petrik, Josef Sivic, Justin Carpentier. Robotics: Science and Systems (RSS) 2022.
+[**[RSS]**](http://www.roboticsproceedings.org/rss18/p039.pdf),
+[**[arXiv]**](https://arxiv.org/abs/2205.09663).
+
 **Learning Object Manipulation Skills via Approximate State Estimation from Real Videos.**
 Vladimír Petrík*, Makarand Tapaswi*, Ivan Laptev, Josef Šivic. Conference on Robot Learning (CoRL) 2020.
 [**[arXiv]**](https://arxiv.org/abs/2011.06813),
