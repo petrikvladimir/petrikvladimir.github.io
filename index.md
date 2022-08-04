@@ -11,6 +11,14 @@ title: "Home"
 
 [//]: # (keep the last 2 years)
 
+* **August, 2022: Learning Object Manipulation Skills from Video via Approximate Differentiable Physics.**
+    Vladimir Petrik, Mohammad Nomaan Qureshi, Josef Sivic, and Makarand Tapaswi.
+    Paper was accepted for publication at IROS conference and is available on 
+    [**[ProjectPage]**](https://data.ciirc.cvut.cz/public/projects/2022Real2SimPhysics/),
+    [**[youtube]**](https://youtu.be/QS6TDqr87gc),
+    [**[GitHub]**](https://github.com/petrikvladimir/video_skills_learning_with_approx_physics), or
+    [**[arXiv]**](https://arxiv.org/abs/2208.01960).
+
 * **July, 2022: Collision Detection Accelerated: An Optimization Perspective.**
     Louis Montaut, Quentin Le Lidec, Vladimir Petrik, Josef Sivic, Justin Carpentier.
     Paper was presented at RSS conference and is available on 

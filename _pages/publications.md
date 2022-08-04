@@ -33,6 +33,13 @@ IEEE Transactions on Robotics, 2016.
 
 ## Conference Publications
 
+**Learning Object Manipulation Skills from Video via Approximate Differentiable Physics.**
+Vladimir Petrik, Mohammad Nomaan Qureshi, Josef Sivic, and Makarand Tapaswi. In Proc. Int. Conf. on Intelligent Robots and Systems (IROS) 2022.
+[**[ProjectPage]**](https://data.ciirc.cvut.cz/public/projects/2022Real2SimPhysics/),
+[**[youtube]**](https://youtu.be/QS6TDqr87gc),
+[**[GitHub]**](https://github.com/petrikvladimir/video_skills_learning_with_approx_physics), or
+[**[arXiv]**](https://arxiv.org/abs/2208.01960).
+
 **Collision Detection Accelerated: An Optimization Perspective.**
 Louis Montaut, Quentin Le Lidec, Vladimir Petrik, Josef Sivic, Justin Carpentier. Robotics: Science and Systems (RSS) 2022.
 [**[RSS]**](http://www.roboticsproceedings.org/rss18/p039.pdf),
@@ -66,7 +73,6 @@ In Proc. Int. Conf. on Intelligent Robots and Systems (IROS), pages 3274–3280,
 Vladimír Petrík, Vladimír Smutný, Pavel Krsek, and Václav Hlaváč. 
 In Int. Workshop on Modelling and Simulation for Autonomous Systems (MESAS), pages 384–395, Rome, 2016.
 [**[pdf]**](ftp://cmp.felk.cvut.cz/pub/cmp/articles/petrik/PetrikMESAS2016.pdf)
-
 
 **Physics-Based Model of Rectangular Garment for Robotic Folding.**
 Vladimír Petrík, Vladimír Smutný, Pavel Krsek, and Václav Hlaváč. 
