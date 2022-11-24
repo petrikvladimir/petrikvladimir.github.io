@@ -59,8 +59,8 @@ plugins:
 
 author:
   name   : "Vladimír Petrík"
-  avatar : "/assets/images/w01_small.jpg"
-  bio    : "Junior Researcher at Czech Institute of Informatics, Robotics, and Cybernetics (CIIRC) at CTU in Prague."
+  avatar : "/assets/images/profile_vladimir_quarter.jpg"
+  bio    : "Researcher at Czech Institute of Informatics, Robotics, and Cybernetics (CIIRC) at CTU in Prague."
   links:
     - label: "vladimir.petrik@cvut.cz"
       icon: "far fa-envelope"
