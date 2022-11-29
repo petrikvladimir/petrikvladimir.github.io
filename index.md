@@ -5,7 +5,7 @@ title: "Home"
 ---
 
 ## Software
-* **RoboMeshCat**, a set of utilities for visualizing robots in web-based visualizer MeshCat is available on [**[GitHub]**](https://github.com/petrikvladimir/RoboMeshCat) and [**[Conda]**](https://anaconda.org/conda-forge/robomeshcat).
+* **RoboMeshCat**, a set of utilities for visualizing robots in web-based visualizer MeshCat is available on [**[GitHub]**](https://github.com/petrikvladimir/RoboMeshCat), [**[Conda]**](https://anaconda.org/conda-forge/robomeshcat) and [**[PyPI]**](https://pypi.org/project/robomeshcat/).
 * **PyPhysX, python wrapper for Nvidia PhysX simulator** is on [**[GitHub]**](https://github.com/petrikvladimir/pyphysx).
 
 ## Recent contributions
